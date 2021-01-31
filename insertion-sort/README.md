@@ -1,6 +1,6 @@
 # Insertion Sort
 
-O algoritmo de ordenação **Insertion Sort**, ou **Ordenação por inserção**. Sua ideia é partir de um vetor pequeno, e já inserir os valores de forma ordenada, iniciamos na posição 1 do vetor, e verificamos se o indice 0 e indice 1 estão ordenados, se não estiverem, trocamos suas posições e assim que ordenados partimos para a posição, verificamos se o o indice 0, 1 e 2 estão ordenados, caso negativo, inserimos o valor desordenado na sua posição correta, e assim sucessivamente até finalizarmos o vetor.
+O algoritmo de ordenação **Insertion Sort**, ou **Ordenação por inserção**, é um dos mais simples. Sua ideia é partir de um vetor pequeno, e já inserir os valores de forma ordenada, iniciamos na posição 1 do vetor, e verificamos se o indice 0 e indice 1 estão ordenados, se não estiverem, trocamos suas posições e assim que ordenados partimos para a posição, verificamos se o o indice 0, 1 e 2 estão ordenados, caso negativo, inserimos o valor desordenado na sua posição correta, e assim sucessivamente até finalizarmos o vetor.
 
 O **Insertion Sort** é menos eficiente em entradas grandes, do que algoritmos mais avançados, como quicksort, heapsort ou merge sort.
 
